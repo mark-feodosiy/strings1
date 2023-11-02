@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/Strings1.iml
+/.idea/
